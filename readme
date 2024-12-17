@@ -1,0 +1,23 @@
+190403040 Mustafa Melik Ayanoğlu
+Deadline 17-12-2024 dd/MM/yyyy
+
+Overview of the Project
+
+This project involves applying Random Forest Regression to a dataset containing three numerical features:
+
+1. Humidity (relative humidity)
+
+2. Pressure (hectopascal)
+
+3. Temperature (celsius, target variable)
+
+The objective is to predict the Temperature values based on Humidity and Pressure using the Random Forest algorithm. Additionally, the correlation matrix is
+generated to analyze relationships between the features.
+
+
+
+Conclusion
+
+The Random Forest Regression model performed well on the given dataset, achieving an MSE of 1.3295 and an R² score of 0.6503.
+The correlation matrix provided valuable insights into the relationships between features, highlighting key dependencies.
+While the results are promising, further tuning and feature engineering could enhance model performance.
